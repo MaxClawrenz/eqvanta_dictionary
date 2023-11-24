@@ -1,6 +1,6 @@
 .dictTitle {
   color: #000;
-  
+  margin-bottom: 4px;
   font-size: 32px;
   font-style: normal;
   font-weight: 600;
@@ -172,6 +172,7 @@
     justify-content: flex-start;
     width: 600px;
     flex-wrap: wrap;
+    margin-top: 16px;
 }
 .CategoryBlock {
   width: 155px;
