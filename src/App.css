@@ -120,6 +120,10 @@
 .addWordButton:hover{
   background: rgba(0, 0, 0, 0.60);
 }
+
+#addWordButton_adaptive {
+  display: none;
+}
 .addWordLink{
   color: #FFF;
   text-decoration: none;

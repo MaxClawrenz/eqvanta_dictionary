@@ -33,6 +33,7 @@ function SearchInput() {
         href="/_wt/request_create/request_type_id/7075545079880228850/doc_id/7075573254342847286"
       >
         <div className="addWordButton">+ Добавить слово</div>
+        <div className="addWordButton" id="addWordButton_adaptive">+</div>
       </a>
     </div>
   );
